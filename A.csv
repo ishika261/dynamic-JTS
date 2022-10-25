@@ -1,0 +1,185 @@
+[[1,'Vanya and Fence','677','A'],[
+2,'Anton and Danik','734','A'],[
+3,'Bear and Big Brother','791','A'],[
+4,'Team','231','A'],[
+5,'Beautiful Matrix','263','A'],[
+6,'Gravity Flip','405','A'],[
+7,'Petya and Strings','112','A'],[
+8,'Boy or Girl','236','A'],[
+9,'Word','59','A'],[
+10,'Magnets','344','A'],[
+11,'Sereja and Dima','381','A'],[
+12,'Stones on the Table','266','A'],[
+13,'Police Recruits','427','A'],[
+14,'Black Square','431','A'],[
+15,'Night at the Museum','731','A'],[
+16,'Games','268','A'],[
+17,'Buy a Shovel','732','A'],[
+18,'Is your horseshoe on the other hoof?','228','A'],[
+19','Colorful Stones (Simplified Edition)','265','A'],[
+20,'Die Roll','9','A'],[
+21,'Shaass and Oskols','294','A'],[
+22,'Juicer','709','A'],[
+23','Carrot Cakes','799','A'],[
+24,'Anton and Letters','443','A'],[
+25,'Way Too Long Words','71','A'],[
+26,'Free Ice Cream','686','A'],[
+27,'Helpful Maths','339','A'],[
+28,'Team Olympiad','490','A'],[
+29,'New Password','770','A'],[
+30,'Presents','136','A'],[
+31,'Lineland Mail','567','A'],[
+32,'Mahmoud and Longest Uncommon Subsequence','766','A'],[
+33,'Snacktower','767','A'],[
+34,'Oath of the Night's Watch','768','A'],[
+35,'Pangram','520','A'],[
+36,'Twins','160','A'],[
+37,'Keyboard','474','A'],[
+38,'Even Odds','318','A'],[
+39,'I Wanna Be the Guy','469','A'],[
+40,'Is it rated?','807','A'],[
+41,'Olesya and Rodion','584','A'],[
+42,'Football','43','A'],[
+43,'Brain's Photos','707','A'],[
+44,'Dubstep','208','A'],[
+45,'Valera and X','404','A'],[
+46,'Arpa’s hard exam and Mehrdad’s naive cheat','742','A'],[
+47','Calculating Function','486','A'],[
+48,'Theatre Square','1-D12-A
+49,'Anton and Polyhedrons','785','A'],[
+50,'Panoramix's Prediction','80','A'],[
+51','Counterexample','483','A'],[
+52,'Good Number','365','A'],[
+53,'Dice Tower','225','A'],[
+54,'Alyona and Numbers','682','A'],[
+55,'Mountain Scenery','218','A'],[
+56,'Help Vasilisa the Wise 2','143','A'],[
+57','Chewbaсca and Number','514','A'],[
+58,'Ksenia and Pan Scales','382','A'],[
+59,'Launch of Collider','699','A'],[
+60,'Polo the Penguin and Segments','289','A'],[
+61,'IQ Test','287','A'],[
+62,'Yaroslav and Permutations','296','A'],[
+63,'Snow Footprints','298','A'],[
+64,'Raising Bacteria','579','A'],[
+65,'BowWow and the Timetable','1204','A'],[
+66,'Balanced Rating Changes','1237','A'],[
+67,'Pipeline','287','B'],[
+68,'Burning Midnight Oil','165','B'],[
+69,'Word Capitalization','281','A'],[
+70,'Next Round','158','A'],[
+71,'Young Physicist','69','A'],[
+72,'Bit++','282','A'],[
+73','Case of the Zeros and Ones','556','A'],[
+74,'Translation','41','A'],[
+75,'String Task','118','A'],[
+76,'Laptops','456','A'],[
+77,'"Left-handers,' Right-handers and Ambidexters"','950','A'],[
+78,'George and Accommodation','467','A'],[
+79,'Vasya the Hipster','581','A'],[
+80,'Fox And Snake','510','A'],[
+81,'The New Year: Meeting Friends','723','A'],[
+82,'Elephant','617','A'],[
+83,'Greg's Workout','255','A'],[
+84,'Ultra-Fast Mathematician','61','A'],[
+85,'Little Pony and Crystal Mine','454','A'],[
+86,'One-dimensional Japanese Crossword','721','A'],[
+87,'Soldier and Bananas','546','A'],[
+88,'Bus to Udayland','711','A'],[
+89','Cookies','129','A'],[
+90,'Second Order Statistics','22','A'],[
+91,'Nearly Lucky Number','110','A'],[
+92,'Playing with Dice','378','A'],[
+93,'A Good Contest','681','A'],[
+94,'Beautiful Year','271','A'],[
+95,'Far Relative’s Birthday Cake','629','A'],[
+96,'Mashmokh and Lights','415','A'],[
+97,'Triangular numbers','47','A'],[
+98,'Roma and Lucky Numbers','262','A'],[
+99,'Toy Army','84','A'],[
+100,'Levko and Table','361','A'],[
+101','Cards','701','A'],[
+102,'Wizards' Duel','591','A'],[
+103','Combination Lock','540','A'],[
+104,'Summer Camp','672','A'],[
+105,'Soft Drinking','151','A'],[
+106','Coder','384','A'],[
+107,'GukiZ and Contest','551','A'],[
+108','Circle Line','278','A'],[
+109,'Patrick and Shopping','599','A'],[
+110','Choosing Teams','432','A'],[
+111,'Vanya and Cubes','492','A'],[
+112,'Insomnia cure','148','A'],[
+113','Cakeminator','330','A'],[
+114,'Flag','16','A'],[
+115','Cupboards','248','A'],[
+116,'Soroban','363','A'],[
+117,'Amusing Joke','141','A'],[
+118,'Lights Out','275','A'],[
+119,'Lunch Rush','276','A'],[
+120,'Duff and Meat','588','A'],[
+121,'Vanya and Cards','401','A'],[
+122,'Squats','424','A'],[
+123,'Arrival of the General','144','A'],[
+124,'Sinking Ship','63','A'],[
+125,'LLPS','202','A'],[
+126','Candy Bags','334','A'],[
+127,'Game With Sticks','451','A'],[
+128,'Vasya and Socks','460','A'],[
+129,'Dima and Friends','272','A'],[
+130,'Nicholas and Permutation','676','A'],[
+131,'Toy Cars','545','A'],[
+132,'DZY Loves Hash','447','A'],[
+133,'HQ9+','133','A'],[
+134,'Holidays','670','A'],[
+135,'Dividing Orange','244','A'],[
+136,'Haiku','78','A'],[
+137,'System of Equations','214','A'],[
+138,'IQ test','25','A'],[
+139','Contest','501','A'],[
+140,'Restoring Password','94','A'],[
+141,'Valera and Plates','369','A'],[
+142,'Minimum Difficulty','496','A'],[
+143,'Little Elephant and Function','221','A'],[
+144','Collecting Beats is Fun','373','A'],[
+145,'Letter','14','A'],[
+146,'Kefa and First Steps','580','A'],[
+147,'Ilya and Bank Account','313','A'],[
+148,'Uncowed Forces','604','A'],[
+149,'Reconnaissance 2','34','A'],[
+150,'Lucky Ticket','146','A'],[
+151','Chat room','58','A'],[
+152,'George and Sleep','387','A'],[
+153,'Ostap and Grasshopper','735','A'],[
+154,'The number of positions','124','A'],[
+155,'Table','359','A'],[
+156,'Tavas and Nafas','535','A'],[
+157,'Watermelon','4','A'],[
+158,'Let's Watch Football','195','A'],[
+159,'Initial Bet','478','A'],[
+160,'Saitama Destroys Hotel','608','A'],[
+161,'Queue on Bus Stop','435','A'],[
+162,'Bicycle Chain','215','A'],[
+163,'Little Elephant and Rozdil','205','A'],[
+164,'Amr and Music','507','A'],[
+165,'Marks','152','A'],[
+166,'Postcards and photos','137','A'],[
+167,'Business trip','149','A'],[
+168,'Drazil and Date','515','A'],[
+169,'Multiplication Table','577','A'],[
+170,'Exam','534','A'],[
+171,'Alena's Schedule','586','A'],[
+172,'Interview','631','A'],[
+173,'Lucky Division','122','A'],[
+174,'Appleman and Easy Task','462','A'],[
+175,'Vasya and Digital Root','355','A'],[
+176,'Parallelepiped','224','A'],[
+177,'Group of Students','357','A'],[
+178,'Joysticks','651','A'],[
+179,'Array','300','A'],[
+180,'Round House','659','A'],[
+181,'Lala Land and Apple Trees','558','A'],[
+182,'Autocomplete','53','A'],[
+183,'Digital Counter','495','A'],[
+184,'Vitaliy and Pie','525','A'],[
+185,'Life Without Zeros','75','A']]
