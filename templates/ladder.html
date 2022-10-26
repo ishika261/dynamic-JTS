@@ -36,11 +36,11 @@
         var all = document.getElementById("showAll");
 
         if (value == "btn-show-all") {
-            all.style.display = "block";
+            all.style = "width:100%";
             unsolved.style.display = "none";
         }
         else {
-            unsolved.style.display = "block";
+            unsolved.style = "width:100%";
             all.style.display = "none";
         }
 
@@ -111,7 +111,7 @@
                     </div>
                 </span>
             </div>
-            <table class="table table-hover table-bordered" id="showUnsolved">
+            <table class="table table-hover table-bordered" id="showUnsolved" style="width:100%">
                 <thead>
                     <tr>
                         <th>ID.</th>
@@ -136,7 +136,7 @@
                     {% endfor %}
                 </tbody>
             </table>
-            <table class="table table-hover table-bordered" id="showAll">
+            <table class="table table-hover table-bordered" id="showAll" style="width:100%">
                 <thead>
                     <tr>
                         <th>ID.</th>
