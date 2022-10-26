@@ -41,19 +41,19 @@ def home(request):
         div_head = "DIV 2.B"
     elif div == 3:
         division = div_c
-        div_head = "DIV 2.C"
+        div_head = "DIV 2.C1"
     elif div == 4:
         division = div_d
-        div_head = "DIV 2.D"
+        div_head = "DIV 2.C2"
     elif div == 5:
         division = div_e
-        div_head = "DIV 2.E"
+        div_head = "DIV 2.D1"
     elif div == 6:
         division = div_1d
-        div_head = "DIV 1.D"
+        div_head = "DIV 2.D2"
     elif div == 7:
         division = div_1e
-        div_head = "DIV 1.E"
+        div_head = "DIV 2.D3"
     else:
         return render(request, "index.html", {"msg": "Invalid Division selected "})
     solved = 0
